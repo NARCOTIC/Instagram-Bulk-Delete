@@ -1,7 +1,7 @@
 var i = 0;
 var howManyToDelete = 0;
 while(howManyToDelete <= 0){
-	var howManyToDelete = prompt('How Many Photos To Delete? : ', '100');
+	var howManyToDelete = prompt('How Many Photos to Delete? : ', '100');
 }
 function banner(){
 	console.log ("---------------------------------");
