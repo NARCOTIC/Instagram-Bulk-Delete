@@ -1,4 +1,5 @@
 {
+  
   "name": "Bulk Photo Delete For Instagram",
   "description": "Deletes all of your Instagram photos at once.",
   "version": "1.0",
@@ -10,4 +11,5 @@
     "default_icon": "xicon.png"
   },
   "permissions": ["activeTab"]
+  
 }
