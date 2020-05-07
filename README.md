@@ -18,4 +18,4 @@ __This is an extension for Chromium based web browsers to delete multiple instag
 
 ⚙️ 8. Switch from Grid view to List view on IG Gallery
 
-⚙️ 9. Run the extension
+⚙️ 9. Run the extension by simply clicking it
