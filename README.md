@@ -10,12 +10,10 @@ __This is an extension for Chromium based web browsers to delete multiple instag
 
 ⚙️ 4. Load the extension using __"Load Unpacked"__
 
-⚙️ 5. Log into Instagram and go to profile page
+⚙️ 5. Log into Instagram
 
 ⚙️ 6. Open __"Inspect Element"__ ```(CTRL + SHIFT + I)```
 
 ⚙️ 7. Switch to __"Mobile Mode"__ ```(CTRL + SHIFT + M)```
 
-⚙️ 8. Switch from Grid view to List view on IG Gallery
-
-⚙️ 9. Run the extension by simply clicking it
+⚙️ 8. Run the extension by simply clicking it
